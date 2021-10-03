@@ -6,7 +6,7 @@ function App_85() {
     <div>
       <h1>My Todos</h1>
       <Todo_85 text='Learn React' />
-      <Todo_85 text='Learn SQK' />
+      <Todo_85 text='Learn SQL' />
       <Todo_85 text='Learn NextJS' />
     </div>
   );
